@@ -239,6 +239,10 @@
 		"ROLE_DEFAULT": "#271B24",
 		"BLACK_460": "#271B24"
     },
+    "background": {
+        "url": "https://raw.githubusercontent.com/dracula/wallpaper/refs/heads/master/first-collection/android-2.png",
+        "alpha": 1
+    },
     "plus": {
        "version": "0",
        "iconpack": "MaterialTwoTone",
